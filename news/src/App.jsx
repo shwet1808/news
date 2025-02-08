@@ -44,8 +44,7 @@ function App() {
         <div>
           <h1>Trendy News</h1>
         </div>
-       
-
+        
         <div className="searchbar">
           <input type="text" placeholder="Search News" value={search} onChange={handleInput} />
           <button onClick={getData}>Search</button>
