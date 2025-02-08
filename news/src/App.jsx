@@ -44,10 +44,7 @@ function App() {
         <div>
           <h1>Trendy News</h1>
         </div>
-        <ul>
-          <a href="#">All News</a>
-          <a href="#">Trending</a>
-        </ul>
+       
 
         <div className="searchbar">
           <input type="text" placeholder="Search News" value={search} onChange={handleInput} />

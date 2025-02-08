@@ -160,7 +160,7 @@ nav ul li a:hover {
   display: flex;
   justify-content: center;
   gap: 12px;
-  padding: 20px;
+  padding: 2px;
 }
 
 .categoryBtn button {
@@ -187,5 +187,5 @@ nav ul li a:hover {
   font-weight: 600;
   font-size: 28px;
   color: #e0e0e0; /* Light text */
-  margin: 20px 0;
+  margin: 2px 0;
 }
